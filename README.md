@@ -18,9 +18,6 @@ This repository contains the source code, datasets, and documentation for the **
 ## Datasets  
 The datasets used for this project consist of image data from landslide-prone and non-landslide-prone areas.  
 
-- **Primary Dataset:** [Kaggle Landslide Dataset](https://www.kaggle.com/competitions/landslide-detection-data)  
-- **Supplementary Data:** Satellite and terrain images from [USGS Earth Explorer](https://earthexplorer.usgs.gov/).  
-
 ## Technologies Used  
 - Python  
 - TensorFlow/Keras  
